@@ -1,3 +1,4 @@
+console.log("JavaScript carregado!")
 const botao = document.getElementById('meuBotao');
 const p = document.getElementById('minhaMensagem');
 
